@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: NGO-concert\n"
+"POT-Creation-Date: 2016-08-08 13:29+0200\n"
+"PO-Revision-Date: 2016-08-08 15:12+0200\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-concert.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-concert.php:31
+msgid ""
+"Tillägget Konserter behöver tillägget \"WP Custom Taxonomy Image\" för att "
+"visa bilder till musiker och platser."
+msgstr ""
+"إضافة الاحتفالات تحتاج للإضافة \"WP Custom Taxonomy Image\" لعرض صور "
+"الموسيقيين و المواقع."
+
+#: ngo-concert.php:69
+msgctxt "post type general name"
+msgid "Konserter"
+msgstr "الاحتفالات"
+
+#: ngo-concert.php:70
+msgctxt "post type singular name"
+msgid "Konsert"
+msgstr "الحفل"
+
+#: ngo-concert.php:71
+msgctxt "book"
+msgid "Lägg till ny"
+msgstr "إضافة جديد"
+
+#: ngo-concert.php:72
+msgid "Lägg till ny konsert"
+msgstr "إضافة حفل جديد"
+
+#: ngo-concert.php:73 ngo-concert.php:142
+msgid "Ändra konsert"
+msgstr "تغيير الحفل"
+
+#: ngo-concert.php:74
+msgid "Ny konsert"
+msgstr "حفل جديد"
+
+#: ngo-concert.php:75
+msgid "Alla konserter"
+msgstr "كل الاحتفالات"
+
+#: ngo-concert.php:76
+msgid "Visa konsert"
+msgstr "عرض الحفل"
+
+#: ngo-concert.php:77
+msgid "Sök konsert"
+msgstr "البحث عن حفل"
+
+#: ngo-concert.php:78
+msgid "Hittade inga konserter"
+msgstr "لم يتم إيجاد أي حفل"
+
+#: ngo-concert.php:79
+msgid "Hittade inga konserter i papperskorgen"
+msgstr "لم يتم العثور على أي احتفالات في سلة المحذوفات"
+
+#: ngo-concert.php:102
+msgid "Affish"
+msgstr "ملصق"
+
+#: ngo-concert.php:110
+#, php-format
+msgid "Konsertern är uppdaterad. <a href=\"%s\">Visa konsert</a>"
+msgstr "تم تعديل الحفل. <a href=\"%s\"> عرض الحفل </a>"
+
+#: ngo-concert.php:111
+msgid "Anpassat fält är uppdaterat."
+msgstr "تم تعديل الحقل المخصص"
+
+#: ngo-concert.php:112
+msgid "Anpassat fält är borttaget."
+msgstr "تم إزالة الحقل المخصص."
+
+#: ngo-concert.php:113
+msgid "Konserten uppdaterad."
+msgstr "تم تحديث الحفل."
+
+#: ngo-concert.php:114
+#, php-format
+msgid "Konserten är återställd till revision från %s"
+msgstr "تم استعادة الحفل للمراجعة من %s"
+
+#: ngo-concert.php:115
+#, php-format
+msgid "Konserten är publicerad. <a href=\"%s\">Visa konsert</a>"
+msgstr "تم نشر الحفل. <a href=\"%s\"> عرض الحفل </a>"
+
+#: ngo-concert.php:116
+msgid "Konserten sparad."
+msgstr "تم حفظ الحفل."
+
+#: ngo-concert.php:117
+#, php-format
+msgid ""
+"Konserten är tillagd. <a target=\"_blank\" href=\"%s\">Förhandsvisa konsert</"
+"a>"
+msgstr "تم إضافة الحفل. <a target=\"_blank\" href=\"%s\"> معاينة الحفل </a>"
+
+#: ngo-concert.php:118
+#, php-format
+msgid ""
+"Konserten är schemalagd för: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Förhandsvisa konsert</a>"
+msgstr ""
+"تم جدولة الحفل لـ: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\"> معاينة الحفل </a>"
+
+#: ngo-concert.php:118
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ngo-concert.php:119
+#, php-format
+msgid ""
+"Utkastet till konserten är uppdaterat. <a target=\"_blank\" href=\"%s"
+"\">Förhandsvisa konsert</a>"
+msgstr ""
+"مسودة الحفل تم تعديله. <a target=\"_blank\" href=\"%s\"> معاينة الحفل </a>"
+
+#: ngo-concert.php:136
+msgid "Konserter"
+msgstr "الاحتفالات"
+
+#: ngo-concert.php:137
+msgid ""
+"Konserter visar information om musikkonserter som är upplagda på din "
+"webbsida. Du kan se en lista över dem på denna sida, i omvänd ordning - den "
+"senast tillagda visas först."
+msgstr ""
+"\"الاحتفالات\" يعرض معلومات عن الحفلات الموسيقية التي يتم عرضها على موقعك "
+"الخاص. تستطيع أن ترى لائحة عن هذه الحفلات في هذه الصفحة, بترتيب عكسي - آخر "
+"حفل مضاف يعرض أولا."
+
+#: ngo-concert.php:138
+msgid ""
+"Du kan visa /ändra informationen om konserterna genom att klicka på dess "
+"namn, eller genom att göra en massändring genom att välja flera konserter "
+"och sedan använda drop listen \"Välj åtgärd...\"."
+msgstr ""
+"يمكنك عرض / تحرير تفاصيل الاحتفالات من خلال النقر على اسمها، أو عن طريق "
+"القيام التحديث الشامل عن طريق تحديد احتفالات متعددة ثم استخدام القائمة "
+"المنسدلة \"اختيار العمل ...\"."
+
+#: ngo-concert.php:143
+msgid ""
+"På denna sida kan du visa  /ändra information om musikkonserter. Vänligen se "
+"till att du fyller i formulär med lämplig information (konsertbild, musiker, "
+"övriga medverkande, lokal) och att <strong>inte</strong> lägga till detta "
+"till beskrivningen av konserten. (Informationen kommer i så fall att visas "
+"dubbelt på sidan.)"
+msgstr ""
+"في هذه الصفحة، يمكنك عرض / تغيير معلومات عن الحفلات الموسيقية. من فضلك تأكد "
+"من ملء النموذج مع المعلومات المناسبة (صورة الحفل، والموسيقيين، وغيرهم من "
+"المشاركين، المكان) و  <strong> لا </strong> تضيف هذه المعلومات إلى وصف "
+"الحفل. ( ستظهر المعلومات مرتين في هذه الحالة )"
+
+#: ngo-concert.php:144
+msgid ""
+"Under \"Övrig information\" kan du lägga till information om körledare, "
+"Scenografi, Rekvisita etc."
+msgstr ""
+"تحت عنوان \"معلومات أخرى\" يمكنك إضافة معلومات حول مدير الجوقة، المصمم، "
+"الدعائم، الخ"
+
+#: ngo-concert.php:145
+msgid ""
+"Snyggast blir det om du skriver \"Rubrik: Information\" och sedan en ny rad. "
+"T.ex. Dirigent: Viktig Person"
+msgstr ""
+"سيكون جميلا إذا كتبت \"عنوان : معلومة \" ثم سطر جديد. مثلا قائد الفرقة : شخص "
+"مهم"
+
+#: ngo-concert.php:146
+msgid ""
+"Glöm inte bort att lägga till en bild under \"Utvald bild\". Den kommer att "
+"visas som \"Miniatyrbild\" och kan till exempel vara en kopia av konsertens "
+"reklamaffish, för igenkänning."
+msgstr ""
+"لا تنس أن تضيف صورة تحت عنوان \"صورة مميزة\". وسوف تبدو وكأنها \"مصغرة\"، "
+"ويمكن أن تكون على سبيل المثال نسخة من ملصق الاعلان عن الحفل، للتعريف."
+
+#: ngo-concert.php:155
+msgctxt "taxonomy general name"
+msgid "Genre för konserter"
+msgstr "نوع الاحتفالات"
+
+#: ngo-concert.php:156
+msgctxt "taxonomy singular name"
+msgid "Genre för konsert"
+msgstr "نوع الحفل"
+
+#: ngo-concert.php:157
+msgid "Sök genre för konserter"
+msgstr "بحث عن نوع الحفل"
+
+#: ngo-concert.php:158
+msgid "Alla Konsertgenrer"
+msgstr "كل الاحتفالات"
+
+#: ngo-concert.php:159
+msgid "Förälder konsertgenre"
+msgstr "نوع الحفل الاصلي"
+
+#: ngo-concert.php:160
+msgid "Förälder konsertgenre:"
+msgstr "نوع الحفل الاصلي"
+
+#: ngo-concert.php:161
+msgid "&Auml;ndra konsertgenre"
+msgstr "&Auml;ndra نوع الحفل"
+
+#: ngo-concert.php:162
+msgid "Uppdatera konsertgenre"
+msgstr "تحديث نوع الحفل"
+
+#: ngo-concert.php:163
+msgid "Lägg till konsertgenre"
+msgstr "إضافة نوع حفل"
+
+#: ngo-concert.php:164
+msgid "Ny konsertgenre"
+msgstr "نوع حفل جديد"
+
+#: ngo-concert.php:165
+msgid "Konsertgenre"
+msgstr "نوع الحفل"
+
+#: ngo-concert.php:176
+msgctxt "taxonomy general name"
+msgid "Platser"
+msgstr "المواقع"
+
+#: ngo-concert.php:177
+msgctxt "taxonomy singular name"
+msgid "Plats"
+msgstr "المكان"
+
+#: ngo-concert.php:178 ngo-concert.php:186
+msgid "Platser"
+msgstr "المواقع"
+
+#: ngo-concert.php:179
+msgid "Alla Platser"
+msgstr "كل المواقع"
+
+#: ngo-concert.php:180
+msgid "Förälder Plats"
+msgstr "الموقع الاصلي"
+
+#: ngo-concert.php:181
+msgid "Förälder Plats:"
+msgstr "الموقع الاصلي:"
+
+#: ngo-concert.php:182
+msgid "Ändra Plats"
+msgstr "تغيير الموقع"
+
+#: ngo-concert.php:183
+msgid "Uppdatera Plats"
+msgstr "تحديث الموقع"
+
+#: ngo-concert.php:184
+msgid "Lägg till Plats"
+msgstr "إضافة موقع"
+
+#: ngo-concert.php:185
+msgid "Nytt namn på Plats"
+msgstr "اسم جديد للموقع"
+
+#: ngo-concert.php:200
+msgctxt "taxonomy general name"
+msgid "Musiker"
+msgstr "الموسيقيين"
+
+#: ngo-concert.php:201
+msgctxt "taxonomy singular name"
+msgid "Musiker"
+msgstr "العازف"
+
+#: ngo-concert.php:202 ngo-concert.php:215
+msgid "Musiker"
+msgstr "العازف"
+
+#: ngo-concert.php:203
+msgid "Populära Musiker"
+msgstr "العازف المشهور"
+
+#: ngo-concert.php:204
+msgid "Alla Musiker"
+msgstr "كل الموسيقيين"
+
+#: ngo-concert.php:207
+msgid "Ändra Musiker"
+msgstr "تغيير الموسيقيين"
+
+#: ngo-concert.php:208
+msgid "Uppdatera Musiker"
+msgstr "تحديث الموسيقيين"
+
+#: ngo-concert.php:209
+msgid "Lägg till Musiker"
+msgstr "إضافة موسيقيين"
+
+#: ngo-concert.php:210
+msgid "Nytt namn på Musiker"
+msgstr "اسم جديد للعازفين"
+
+#: ngo-concert.php:211
+msgid "Separera Musiker med kommatecken"
+msgstr "افصل العازفين باستخدام الفاصلة"
+
+#: ngo-concert.php:212
+msgid "Lägg till eller ta bort Musiker"
+msgstr "أضافة أو حذف عازف"
+
+#: ngo-concert.php:213
+msgid "Välj från mest använda Musiker"
+msgstr "اختيار من العازفين الاكثر استخداما"
+
+#: ngo-concert.php:214
+msgid "Hittade inga Musiker. (Kanske du ska skapa några?)"
+msgstr "لم يتم إيجاد أي عازفين. (ربما يجب أن تضيف البعض؟)"
+
+#: ngo-concert.php:233
+msgid "Övrig information"
+msgstr "معلومات أخرى"
+
+#: ngo-concert.php:263
+msgid "Medarbetare, utöver musiker"
+msgstr "المشاركين, مع العازفين"
+
+#: ngo-concert.php:264
+msgid ""
+"Ange metainfo, som roddare, producent, dirigent, körledare.&#10;&#10;"
+"Dirigent: Någon Där&#10;Text och musik: Någon Annan"
+msgstr ""
+"أدخل معلومات الميتا, مثل المنتج, قائد الكورس مثل المخرج : شخص ما, قائد "
+"الفرقة: شخص آخر.."
+
+#: ngo-concert.php:267
+msgid "Datum första spelningen"
+msgstr "تاريخ أول عرض"
+
+#: ngo-concert.php:293
+msgid "Datum sista spelningen"
+msgstr "تاريخ آخر عرض"
+
+#: ngo-concert.php:293
+msgid "lämna tomt vid endast en spelning"
+msgstr "يترك فارغا في حالة عرض واحد فقط"
+
+#: ngo-concert.php:319
+msgid "Antal spelningar"
+msgstr "عدد العروض"
+
+#: ngo-concert.php:323
+msgid "Köp biljetter här url"
+msgstr "اشتري البطاقات من هذا الرابط"
+
+#. Plugin Name of the plugin/theme
+msgid "NGO-concert"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://xn--freningsportalen-mwb.se"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Tillägg för att kunna skapa event av typen musikkonsert. Skapar en custom "
+"post type concert med musiker taxonomy m.m. Behöver bara vara aktiv på de "
+"föreningssidor som behöver den."
+msgstr ""
+"إضافة لخلق حدث من نوع حفل موسيقي . يخلق نوع ملصق محدد للحفلات الموسيقية "
+"يتضمن الموسيقيين .. الخ . يحتاج فقط للتنشيط في صفحة الجمعية التي تحتاج لذلك."
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr ""

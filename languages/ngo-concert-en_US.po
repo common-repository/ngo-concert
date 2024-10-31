@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NGO-concert\n"
+"POT-Creation-Date: 2016-08-07 20:57+0200\n"
+"PO-Revision-Date: 2016-08-07 21:06+0200\n"
+"Last-Translator: George Bredberg <george@bona.nu>\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-concert.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-concert.php:31
+msgid ""
+"Tillägget Konserter behöver tillägget \"WP Custom Taxonomy Image\" för att "
+"visa bilder till musiker och platser."
+msgstr ""
+"The plugin NGO Concerts need the extension \"WP Custom Taxonomy Image\" to "
+"show pictures of musicians and venues."
+
+#: ngo-concert.php:69
+msgctxt "post type general name"
+msgid "Konserter"
+msgstr "Concerts"
+
+#: ngo-concert.php:70
+msgctxt "post type singular name"
+msgid "Konsert"
+msgstr "Concert"
+
+#: ngo-concert.php:71
+msgctxt "book"
+msgid "Lägg till ny"
+msgstr "Add New"
+
+#: ngo-concert.php:72
+msgid "Lägg till ny konsert"
+msgstr "Add new concert"
+
+#: ngo-concert.php:73 ngo-concert.php:142
+msgid "Ändra konsert"
+msgstr "Change concert"
+
+#: ngo-concert.php:74
+msgid "Ny konsert"
+msgstr "New concert"
+
+#: ngo-concert.php:75
+msgid "Alla konserter"
+msgstr "All concerts"
+
+#: ngo-concert.php:76
+msgid "Visa konsert"
+msgstr "View concert"
+
+#: ngo-concert.php:77
+msgid "Sök konsert"
+msgstr "Search concert"
+
+#: ngo-concert.php:78
+msgid "Hittade inga konserter"
+msgstr "No concerts found"
+
+#: ngo-concert.php:79
+msgid "Hittade inga konserter i papperskorgen"
+msgstr "No concerts found in trash"
+
+#: ngo-concert.php:102
+msgid "Affish"
+msgstr "Poster"
+
+#: ngo-concert.php:110
+#, php-format
+msgid "Konsertern är uppdaterad. <a href=\"%s\">Visa konsert</a>"
+msgstr "Concerts are updated. <a href=\"%s\">View concert</a>"
+
+#: ngo-concert.php:111
+msgid "Anpassat fält är uppdaterat."
+msgstr "Custom field updated."
+
+#: ngo-concert.php:112
+msgid "Anpassat fält är borttaget."
+msgstr "Custom field deleted."
+
+#: ngo-concert.php:113
+msgid "Konserten uppdaterad."
+msgstr "The concert is updated."
+
+#: ngo-concert.php:114
+#, php-format
+msgid "Konserten är återställd till revision från %s"
+msgstr "The concert is restored to revision from %s"
+
+#: ngo-concert.php:115
+#, php-format
+msgid "Konserten är publicerad. <a href=\"%s\">Visa konsert</a>"
+msgstr "The concert is published. <a href=\"%s\">View concert</a>"
+
+#: ngo-concert.php:116
+msgid "Konserten sparad."
+msgstr "The concert is saved."
+
+#: ngo-concert.php:117
+#, php-format
+msgid ""
+"Konserten är tillagd. <a target=\"_blank\" href=\"%s\">Förhandsvisa konsert</"
+"a>"
+msgstr ""
+"The concert is added. <a target=\"_blank\" href=\"%s\">Preview concert</a>"
+
+#: ngo-concert.php:118
+#, php-format
+msgid ""
+"Konserten är schemalagd för: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Förhandsvisa konsert</a>"
+msgstr ""
+"The concert is scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview concert</a>"
+
+#: ngo-concert.php:118
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ngo-concert.php:119
+#, php-format
+msgid ""
+"Utkastet till konserten är uppdaterat. <a target=\"_blank\" href=\"%s"
+"\">Förhandsvisa konsert</a>"
+msgstr ""
+"The draft of the concert is updated. <a target=\"_blank\" href=\"%s"
+"\">Preview concert</a>"
+
+#: ngo-concert.php:136
+msgid "Konserter"
+msgstr "Concerts"
+
+#: ngo-concert.php:137
+msgid ""
+"Konserter visar information om musikkonserter som är upplagda på din "
+"webbsida. Du kan se en lista över dem på denna sida, i omvänd ordning - den "
+"senast tillagda visas först."
+msgstr ""
+"Concerts provides information about music concerts that will be shown at "
+"your Web page. You can see a list of them on this page, in reverse order - "
+"the most recently added appears first."
+
+#: ngo-concert.php:138
+msgid ""
+"Du kan visa /ändra informationen om konserterna genom att klicka på dess "
+"namn, eller genom att göra en massändring genom att välja flera konserter "
+"och sedan använda drop listen \"Välj åtgärd...\"."
+msgstr ""
+"You can view/modify the information about the concerts by clicking on its "
+"name, or by doing a bulk change by selecting several concerts, and then use "
+"the drop list \"Select action ...\"."
+
+#: ngo-concert.php:143
+msgid ""
+"På denna sida kan du visa  /ändra information om musikkonserter. Vänligen se "
+"till att du fyller i formulär med lämplig information (konsertbild, musiker, "
+"övriga medverkande, lokal) och att <strong>inte</strong> lägga till detta "
+"till beskrivningen av konserten. (Informationen kommer i så fall att visas "
+"dubbelt på sidan.)"
+msgstr ""
+"On this page you can view/change information about music concerts. Please "
+"ensure that you fill in the forms with the appropriate information (concert "
+"picture, musicians, other participants, venue) and to <strong>not</strong> "
+"add this to the main page of the concert. (If  you do then this information "
+"will appear twice on the page.)"
+
+#: ngo-concert.php:144
+msgid ""
+"Under \"Övrig information\" kan du lägga till information om körledare, "
+"Scenografi, Rekvisita etc."
+msgstr ""
+"In the field \"Additional information\", you can add information about the "
+"Choir director, Scenografer, Props, etc."
+
+#: ngo-concert.php:145
+msgid ""
+"Snyggast blir det om du skriver \"Rubrik: Information\" och sedan en ny rad. "
+"T.ex. Dirigent: Viktig Person"
+msgstr ""
+"It will look best if you type \"Header: Information\" and then add a new "
+"line. E.g. Conductor: Important Person"
+
+#: ngo-concert.php:146
+msgid ""
+"Glöm inte bort att lägga till en bild under \"Utvald bild\". Den kommer att "
+"visas som \"Miniatyrbild\" och kan till exempel vara en kopia av konsertens "
+"reklamaffish, för igenkänning."
+msgstr ""
+"Don't forget to add a picture in the \"Selected picture\". It will appear as "
+"a thumbnail that could be a copy of the concert's poster, so it's easily "
+"recognized."
+
+#: ngo-concert.php:155
+msgctxt "taxonomy general name"
+msgid "Genre för konserter"
+msgstr "Genre for concerts"
+
+#: ngo-concert.php:156
+msgctxt "taxonomy singular name"
+msgid "Genre för konsert"
+msgstr "Genre of concert"
+
+#: ngo-concert.php:157
+msgid "Sök genre för konserter"
+msgstr "Search Concert Genre"
+
+#: ngo-concert.php:158
+msgid "Alla Konsertgenrer"
+msgstr "All concert genres"
+
+#: ngo-concert.php:159
+msgid "Förälder konsertgenre"
+msgstr "Parent concert genre"
+
+#: ngo-concert.php:160
+msgid "Förälder konsertgenre:"
+msgstr "Parent concert genre:"
+
+#: ngo-concert.php:161
+msgid "Ändra konsertgenre"
+msgstr "Change the concert genre"
+
+#: ngo-concert.php:162
+msgid "Uppdatera konsertgenre"
+msgstr "Update the concert genre"
+
+#: ngo-concert.php:163
+msgid "Lägg till konsertgenre"
+msgstr "Add concert genre"
+
+#: ngo-concert.php:164
+msgid "Ny konsertgenre"
+msgstr "New concert genre"
+
+#: ngo-concert.php:165
+msgid "Konsertgenre"
+msgstr "Concert genre"
+
+#: ngo-concert.php:176
+msgctxt "taxonomy general name"
+msgid "Platser"
+msgstr "Venues"
+
+#: ngo-concert.php:177
+msgctxt "taxonomy singular name"
+msgid "Plats"
+msgstr "Venue"
+
+#: ngo-concert.php:178 ngo-concert.php:186
+msgid "Platser"
+msgstr "Venues"
+
+#: ngo-concert.php:179
+msgid "Alla Platser"
+msgstr "All Venues"
+
+#: ngo-concert.php:180
+msgid "Förälder Plats"
+msgstr "Parent Venue"
+
+#: ngo-concert.php:181
+msgid "Förälder Plats:"
+msgstr "Parent Venue:"
+
+#: ngo-concert.php:182
+msgid "Ändra Plats"
+msgstr "Change Venue"
+
+#: ngo-concert.php:183
+msgid "Uppdatera Plats"
+msgstr "Update Venue"
+
+#: ngo-concert.php:184
+msgid "Lägg till Plats"
+msgstr "Add Venue"
+
+#: ngo-concert.php:185
+msgid "Nytt namn på Plats"
+msgstr "New Venue place"
+
+#: ngo-concert.php:200
+msgctxt "taxonomy general name"
+msgid "Musiker"
+msgstr "Musicians"
+
+#: ngo-concert.php:201
+msgctxt "taxonomy singular name"
+msgid "Musiker"
+msgstr "Musician"
+
+#: ngo-concert.php:202 ngo-concert.php:215
+msgid "Musiker"
+msgstr "Musician"
+
+#: ngo-concert.php:203
+msgid "Populära Musiker"
+msgstr "Popular Musicians"
+
+#: ngo-concert.php:204
+msgid "Alla Musiker"
+msgstr "All Musicians"
+
+#: ngo-concert.php:207
+msgid "Ändra Musiker"
+msgstr "Change The Musician"
+
+#: ngo-concert.php:208
+msgid "Uppdatera Musiker"
+msgstr "Update The Musician"
+
+#: ngo-concert.php:209
+msgid "Lägg till Musiker"
+msgstr "Add Musician"
+
+#: ngo-concert.php:210
+msgid "Nytt namn på Musiker"
+msgstr "New name for Musician"
+
+#: ngo-concert.php:211
+msgid "Separera Musiker med kommatecken"
+msgstr "Separate Musicians by commas"
+
+#: ngo-concert.php:212
+msgid "Lägg till eller ta bort Musiker"
+msgstr "Add or remove Musician"
+
+#: ngo-concert.php:213
+msgid "Välj från mest använda Musiker"
+msgstr "Select from mostly used Musicians"
+
+#: ngo-concert.php:214
+msgid "Hittade inga Musiker. (Kanske du ska skapa några?)"
+msgstr "Did not find any Musicians. (Maybe you should add some?)"
+
+#: ngo-concert.php:233
+msgid "Övrig information"
+msgstr "Additional info"
+
+#: ngo-concert.php:263
+msgid "Medarbetare, utöver musiker"
+msgstr "Coworkers, in addition to musicians"
+
+#: ngo-concert.php:264
+msgid ""
+"Ange metainfo, som roddare, producent, dirigent, körledare.&#10;&#10;"
+"Dirigent: Någon Där&#10;Text och musik: Någon Annan"
+msgstr ""
+"Enter the metainfo, like producer, conductor, choirmaster. &#10; &#10; "
+"conductor: Someone &#10; Text and music: Someone else"
+
+#: ngo-concert.php:267
+msgid "Datum första spelningen"
+msgstr "Date first gig"
+
+#: ngo-concert.php:293
+msgid "Datum sista spelningen"
+msgstr "Date last gig"
+
+#: ngo-concert.php:293
+msgid "lämna tomt vid endast en spelning"
+msgstr "leave blank when only one gig"
+
+#: ngo-concert.php:319
+msgid "Antal spelningar"
+msgstr "Number of gigs"
+
+#: ngo-concert.php:323
+msgid "Köp biljetter här url"
+msgstr "Buy tickets here url"
+
+#. Plugin Name of the plugin/theme
+msgid "NGO-concert"
+msgstr "NGO-concert"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://xn--freningsportalen-mwb.se"
+msgstr "http://xn--freningsportalen-mwb.se"
+
+#. Description of the plugin/theme
+msgid ""
+"Tillägg för att kunna skapa event av typen musikkonsert. Skapar en custom "
+"post type concert med musiker taxonomy m.m. Behöver bara vara aktiv på de "
+"föreningssidor som behöver den."
+msgstr ""
+"Plugin to create events of the type \"Music concert\". Creates a custom post "
+"type concert with musician taxonomy etc. It only needs to be active on the "
+"sites that needs it."
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr "George Bredberg"
